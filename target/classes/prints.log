@@ -1,0 +1,4 @@
+19:35:32.675 [main] DEBUG alpha.Demo - Hello this is a debug message
+19:35:32.675 [main] DEBUG alpha.Demo - Hello this is a debug message
+19:35:32.681 [main] INFO  alpha.Demo - Hello this is an info message
+19:35:32.681 [main] INFO  alpha.Demo - Hello this is an info message
